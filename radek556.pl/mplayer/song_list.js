@@ -1027,6 +1027,54 @@ let All_song = [
      singer: "okokok#1362"
    },
    {
+     name: "Lord Santos Droga Magii 1",
+     path: "music/LordSantosDrogaMagii1.wav",
+     img: "images/1.png",
+     singer: "okokok#1362"
+   },
+   {
+     name: "Lord Santos Droga Magii 2",
+     path: "music/LordSantosDrogaMagii2.wav",
+     img: "images/1.png",
+     singer: "okokok#1362"
+   },
+   {
+     name: "Lord Santos Droga Magii 3",
+     path: "music/LordSantosDrogaMagii3.wav",
+     img: "images/1.png",
+     singer: "okokok#1362"
+   },
+   {
+     name: "Lord Santos Droga Magii 4",
+     path: "music/LordSantosDrogaMagii4.wav",
+     img: "images/1.png",
+     singer: "okokok#1362"
+   },
+   {
+     name: "Lord Santos Droga Magii 5",
+     path: "music/LordSantosDrogaMagii5.wav",
+     img: "images/1.png",
+     singer: "okokok#1362"
+   },
+   {
+     name: "Lord Santos Droga Magii 6",
+     path: "music/LordSantosDrogaMagii6.wav",
+     img: "images/1.png",
+     singer: "okokok#1362"
+   },
+   {
+     name: "Lord Santos Droga Magii 7",
+     path: "music/LordSantosDrogaMagii7.wav",
+     img: "images/1.png",
+     singer: "okokok#1362"
+   },
+   {
+     name: "Lord Santos Droga Magii 8",
+     path: "music/LordSantosDrogaMagii8.wav",
+     img: "images/1.png",
+     singer: "okokok#1362"
+   },
+   {
      name: "Lord Santos Dolacz Proba 1",
      path: "music/LordSantosDolaczProba1.wav",
      img: "images/1.png",
