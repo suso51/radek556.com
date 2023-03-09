@@ -2,7 +2,7 @@ var youtube = "https://www.youtube.com/@radek5569";
 var password = "radek556";
 var instagram = "not now...";
 var github = "not now...";
-var discord = "okokok#1362";
+var discord = "https://discord.gg/ZbxnVxKu";
 
 whois = [
   "<br>",
@@ -26,7 +26,7 @@ social = [
   'youtube        <a href="' + youtube + '" target="_blank">youtube/radek556' + "</a>",
   'instagram      <a href="' + instagram + '" target="_blank">not now...' + '</a>',
   'github         <a href="' + github + '" target="_blank">not now...' + "</a>",
-  'discord         <a href="' + discord + '" target="_blank">okokok#1362' + "</a>",
+  'discord         <a href="' + discord + '" target="_blank">discord.gg/ZbxnVxKu' + "</a>",
   "<br>"
 ];
 
