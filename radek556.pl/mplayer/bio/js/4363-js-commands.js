@@ -2,6 +2,7 @@ var youtube = "https://www.youtube.com/@radek5569";
 var password = "radek556";
 var instagram = "not now...";
 var github = "not now...";
+var discord = "okokok#1362";
 
 whois = [
   "<br>",
