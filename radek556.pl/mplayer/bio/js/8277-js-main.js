@@ -134,6 +134,10 @@ function commander(cmd) {
       addLine("Opening Instagram...", "color2", 0);
       newTab(instagram);
       break;
+    case "discord":
+      addLine("Opening Discord...", "color2", 0);
+      newTab(discord);
+      break;
     case "github":
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
