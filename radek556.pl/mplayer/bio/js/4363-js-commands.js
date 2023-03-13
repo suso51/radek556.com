@@ -6,7 +6,7 @@ var discord = "https://discord.gg/ZbxnVxKu";
 
 whois = [
   "<br>",
-  "Hey, I'm Radek / Michal!👋",
+  "Hey, I'm Michal / Radek!👋",
   "I am 22 years old.",
   "I am from city Gdańsk, trying to improve myself in software programming and voice acting. Coding is a piece of cake. 😊",
   "Programmer and voice actor of sum Games / Videos etc. Trying some fandubs and other things to improve skills.",
