@@ -119,6 +119,10 @@ p {
 a {
   color: #9C8394;
 }
+.czerw,
+a {
+  color: #FF0000;
+}
 a {
   text-decoration: inherit;
 }
