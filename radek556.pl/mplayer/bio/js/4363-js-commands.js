@@ -74,6 +74,7 @@ price = [
   "<br>",
   "U pay for my money that got spent on tutorials, lessons, everything for making my skills even better. For my time that teached me using all shit in softwares.",
   "IMPORTANT: U PAY FOR MY COPYRIGHT!",
+  "<br>",
 ];
 
 voiceacting = [
@@ -81,6 +82,7 @@ voiceacting = [
   "I don't want to give u much much projects that i gave my voice to, there's just some examples:",
   "Gothic 2 NoTR - Lobos",
   "Gothic 1 - Edycja Rozszerzona",
+  "<br>",
 ];
 
 help = [
